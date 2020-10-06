@@ -1,0 +1,1 @@
+/give @p minecraft:stick{Enchantments:[{id:knockback,lvl:1000}]}
