@@ -1,0 +1,2 @@
+/give @p minecraft:diamond_pickaxe{HideFlags:0,display:{Lore:["This item is overpowered"]},Enchantments:[{id:"minecraft:efficiency",lvl:100000000},{id:"minecraft:fortune",lvl:100000000},{id:"minecraft:unbreaking",lvl:100000000},{id:"minecraft:unbreaking",lvl:100000000}]}
+
