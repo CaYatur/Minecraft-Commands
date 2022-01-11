@@ -1,0 +1,1 @@
+/summon rabbit [pos] {RabbitType:99}
