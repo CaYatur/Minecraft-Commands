@@ -1,0 +1,1 @@
+/give CaYatur chest{BlockEntityTag:{Items:[{Slot:0,id:diamond_block,Count:30},{Slot:1,id:oak_log,Count:64},{Slot:2,id:elytra,Count:1,tag:{Enchantments:[{id:unbreaking,lvl:3}]}},{Slot:3,id:firework_rocket,Count:10},{Slot:4,id:cooked_beef,Count:10}]}} 1
