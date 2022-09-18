@@ -1,0 +1,18 @@
+Mojang Şirketi 2009 Yılında Kuruldu. - D
+Notch Microsoft'a 2 Milyon Dolara Sattı. - Y
+1.19 da Oyundaki En Güçlü Canlı EnderDragon dur. - Y
+Minecraft 2011 Yılında Açık Bir Şekilde Dünyaya Sunuldu. - D
+Fırın Her Türlü Taş Çeşiti İle Yapılır. - Y
+Minecraft Java Kodlama Dili c++'dır. - Y
+1 Chunk 8x8'dir. - Y
+Kediler Çiğ Balık Yemezler. - Y
+Tavuk Buğday Yer. - Y
+Minecraft'ta Suya Hiç Bir Canlı Batmaz. - Y
+
+
+Yedek Soru: Bir Zombi Suya Batarsa 10 Saniye Sonra Boğuk Olur. - D
+Yedek Soru: Minecraft Varsayılan Randomtick Speed 4 tür. - Y
+Yedek Soru: Minecraft Bedrock Kodlama Dili c++ dır. - D
+
+Yok Edici Soru: Creeper'a Yıldırım Çarparsa Bazen Ölür Bazen Yaşarlar. - D
+Yok Edici Soru: Creeper'a Yıldırım Çarparsa Super Creeper Olur. - Y [Charged Creeper]
