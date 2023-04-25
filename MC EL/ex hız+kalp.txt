@@ -1,0 +1,1 @@
+/give CaYatur yellow_dye{AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:0.05,Operation:0,UUID:[I;12345,12345,12345,12345]},{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:10.0,Operation:0,UUID:[I;54321,54321,54321,54321]}]}
